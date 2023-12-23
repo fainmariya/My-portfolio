@@ -1,0 +1,89 @@
+.header {
+    min-height: 200px;
+    padding: 50px 80px;
+    background-color: grey;
+    background-image: url("bg.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+ul {
+    margin-left: 300px;
+    text-align: left;
+    /* margin-top: 0px;
+    margin-bottom: -10px; */
+}
+
+h2 {
+    text-align: center;
+}
+
+.about,
+.skills,
+.getintouch,
+.education,
+.albom,
+.speciality,
+.school {
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 100;
+    padding: 3px 230px;
+    text-align: justify;
+    color: #40514e;
+    margin: 0px;
+}
+
+
+/* .title-text {
+    /* display: flex; */
+
+
+/* height: 200px;
+    width: 100%;
+    background-color: gray;
+    padding: 30px;
+    padding-top: 50px;
+    margin: 0px;
+    font-size: 1rem;
+    text-align: center; */
+
+
+/* } */
+
+.round {
+    margin-top: 50px;
+    margin-left: 620px;
+    width: 200px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.card-text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.7rem;
+}
+
+.btn-group {
+    background: rgb(239, 232, 232)
+}
+
+.d-flex {
+    height: 10px;
+}
+
+figure {
+    float: right;
+    font-style: italic;
+    font-size: smaller;
+    /* margin: 0px 10px; */
+}
