@@ -1,0 +1,80 @@
+/* .img {
+    background-image: url("1.jpg");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+} */
+
+
+/* header {
+    display: block;
+    /* Для старых браузеров */
+
+
+/* height: 405px; */
+
+
+/* Высота шапки */
+
+
+/* background-image: url(HTML/houston-texas-cityscape-1630041.jpg) no-repeat center bottom;
+} */
+
+div {
+    /* border: 1px solid black; */
+    background-color: #fff8dc;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+body {
+    background: url(img/houston-texas-cityscape-1630041.jpg) no-repeat fixed;
+    /* background-size: cover; */
+}
+
+p {
+    margin: 10px 20px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "arial";
+    margin: 1.5em 50px 0 20px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+    margin: 10px 20px;
+}
+
+
+/* th {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+} */
+
+img.p {
+    float: right;
+    margin: 7px 7px 7px 0;
+}
+
+figure {
+    float: right;
+    font-style: italic;
+    font-size: smaller;
+    margin: 10px 20px;
+}
